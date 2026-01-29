@@ -70,14 +70,22 @@ A console-based math quiz game written in C++ that tests the player's arithmetic
 ## 🧾 Sample Output
 
 How Many Questions Do You Want? 5  
+
 enter the question level 1[easy] 2[mid] 3[hard] 4[Mix] ? 2  
+
 Enter the operation Type 1[+] 2[-] 3[*] 4[/] 5[mix] ? 5  
+
 Question [1]  
-23  
-17  *  
+
+23
+
+17  *
+
 --------  
 391  
+
 Correct Answer  
+
 ------------  
 ...  
 *************************************************  
