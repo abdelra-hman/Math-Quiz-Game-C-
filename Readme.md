@@ -93,8 +93,8 @@ ______Round = 5
 ______Final Result = Winner  
 ______Correct Answer : 4  
 ______Wrong Answer : 1  
-______operation_type : Mix  
-------Question Type  :  Medium  
+______Operation_type : Mix  
+______Question Type  :  Medium  
 *************************************************  
 Do you want play again y/n  
 
